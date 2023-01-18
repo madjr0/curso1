@@ -9,4 +9,6 @@ main {
 
 .link {
     text-decoration: none;
+    box-sizing: border-box;
+    margin: 15px;
 }
